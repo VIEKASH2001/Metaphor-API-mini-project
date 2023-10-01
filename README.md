@@ -24,7 +24,8 @@ Follow these steps to run the Metaphoria web application:
 
 3. Install the required Python packages listed in `requirements.txt` using pip:
 
-
+```markdown
+```bash
 pip install -r requirements.txt
 
 4. Run the Flask application by executing `app.py`:
