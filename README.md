@@ -26,7 +26,29 @@ Metaphoria employs natural language processing and data analysis techniques to u
 
 1. **User Input:** Users provide a snippet from a story they enjoyed or specify their literary preferences.
 
-2. **Recommendation Algorithm:** Metaphoria's recommendation algorithm processes this input to identify relevant stories and literary works.
+#### Example Prompts:
+
+- "In a distant kingdom, a young prince embarks on a quest to rescue a kidnapped princess."
+
+- "A detective with a dark past investigates a series of mysterious murders in a bustling city."
+
+- "On a remote island, a group of strangers find themselves stranded after a shipwreck."
+
+- "In a dystopian future, a rebel fights against an oppressive regime for freedom."
+
+- "A heartwarming story about a family's bond during the holiday season."
+
+- "A young wizard discovers a hidden magical world beneath the streets of a bustling city."
+
+- "In a post-apocalyptic world, a lone survivor searches for a rumored safe haven."
+
+- "Two star-crossed lovers from rival families in Renaissance-era Verona."
+
+- "A group of friends embarks on a road trip across the United States."
+
+- "In a whimsical land, a talking cat goes on a quest to find a legendary treasure."
+
+2. **Recommendation Algorithm:** Metaphoria utilizes Metaphor's recommendation algorithm to processes this input to identify relevant stories and literary works.
 
 3. **Content Retrieval:** The application fetches content or snippets from recommended stories, ensuring users receive a comprehensive overview.
 
