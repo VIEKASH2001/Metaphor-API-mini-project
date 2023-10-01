@@ -1,4 +1,6 @@
-# Metaphoria: The Ultimate Story Companion
+<a>
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=50&duration=2000&pause=500&multiline=true&width=1500&height=80&lines=Metaphoria:+The+Ultimate+Story+Companion" alt="Typing SVG" />
+</a>
 
 ![Alt Text](https://raw.githubusercontent.com/VIEKASH2001/Metaphor-API-mini-project/main/example.png?token=GHSAT0AAAAAACHGQ3XDHN2OIKEHASRR5EK4ZIZ2RRA)
 
