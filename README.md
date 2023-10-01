@@ -24,3 +24,36 @@ Follow these steps to run the Metaphoria web application:
 
 3. Install the required Python packages listed in `requirements.txt` using pip:
 
+
+pip install -r requirements.txt
+
+4. Run the Flask application by executing `app.py`:
+
+To run the Metaphoria web application, execute the `app.py` script using the following Python command:
+
+```markdown
+```bash
+python app.py
+
+5. Open a web browser and navigate to `http://127.0.0.1:5000` to access Metaphoria.
+
+## Usage
+
+1. Enter your story or text in the provided textarea on the Metaphoria homepage.
+
+2. Click the "Submit" button to generate story suggestions.
+
+3. Explore the suggested stories listed on the page. Click on a title to view its content in the embedded iframe.
+
+## About
+
+Metaphoria was created as a project to assist users in finding stories that match their preferences. It uses the Metaphor Python library for searching related content and web scraping techniques to display story suggestions.
+
+## Contributing
+
+Feel free to contribute to this project by submitting issues or pull requests on the GitHub repository.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
