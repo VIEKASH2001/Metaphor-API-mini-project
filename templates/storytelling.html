@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Metaphoria: Storytelling Assistant</title>
+    <title>Metaphoria: The Ultimate Story Companion</title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
@@ -91,10 +91,15 @@
     </script>
 </head>
 <body>
-    <h2>Begin Your Story...</h2>
+    <h2>
+        <div class="title-band">
+            <div class="title-text">Metaphoria: The Ultimate Story Companion</div>
+            <div class="subtitle-text">Discover Stories Similar to Your Favorites and Unearth New Literary Gems with Ease!</div>
+        </div>
+    </h2>
     <form action="/" method="post">
-        <textarea name="story_start" rows="10" cols="50" placeholder="Start writing..." required></textarea><br><br>
-        <input type="submit" value="Get Suggestions">
+        <textarea name="story_start" rows="10" cols="50" placeholder="Jot down the lines..." required></textarea><br><br>
+        <input type="submit" value="Submit">
     </form>
 
     {% if suggestions %}
