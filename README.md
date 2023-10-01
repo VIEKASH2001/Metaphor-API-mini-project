@@ -1,5 +1,7 @@
 # Metaphoria: The Ultimate Story Companion
 
+![Alt Text](URL_of_the_image)
+
 ## Overview
 
 Metaphoria is an innovative web application designed to enhance your reading experience by recommending stories similar to your favorite ones while introducing you to new literary gems effortlessly. In a world inundated with an abundance of content, Metaphoria simplifies the process of finding captivating narratives tailored to your preferences.
