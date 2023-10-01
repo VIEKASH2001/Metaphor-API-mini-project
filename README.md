@@ -1,6 +1,6 @@
 # Metaphoria: The Ultimate Story Companion
 
-![Alt Text](URL_of_the_image)
+![Alt Text](https://raw.githubusercontent.com/VIEKASH2001/Metaphor-API-mini-project/main/example.png?token=GHSAT0AAAAAACHGQ3XDHN2OIKEHASRR5EK4ZIZ2RRA)
 
 ## Overview
 
