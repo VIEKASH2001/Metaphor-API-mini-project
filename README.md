@@ -30,9 +30,9 @@ pip install -r requirements.txt
 4. Run the Flask application by executing `app.py`:
 
 To run the Metaphoria web application, execute the `app.py` script using the following Python command:
-
+```bash
 python app.py
-
+```
 5. Open a web browser and navigate to `http://127.0.0.1:5000` to access Metaphoria.
 
 ## Usage
