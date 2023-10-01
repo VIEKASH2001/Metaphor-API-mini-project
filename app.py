@@ -1,3 +1,6 @@
+# Metaphoria: The Ultimate Story Companion 
+# Discover Stories Similar to Your Favorites and Unearth New Literary Gems with Ease!
+
 from flask import Flask, render_template, request
 from metaphor_python import Metaphor
 from bs4 import BeautifulSoup
