@@ -48,6 +48,7 @@ Metaphoria employs natural language processing and data analysis techniques to u
 
 - "In a whimsical land, a talking cat goes on a quest to find a legendary treasure."
 
+
 2. **Recommendation Algorithm:** Metaphoria utilizes Metaphor's recommendation algorithm to processes this input to identify relevant stories and literary works.
 
 3. **Content Retrieval:** The application fetches content or snippets from recommended stories, ensuring users receive a comprehensive overview.
